@@ -2,7 +2,7 @@ from rembg import remove
 from PIL import Image
 
 input_path = 'rita.jpg'
-output_path = 'rita_res.png'
+output_path = 'rita_newres.png'
 
 # Open the image
 image = Image.open(input_path)
